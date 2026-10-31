@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pe.cristohijodedios.cancionero",
+      "sha256_cert_fingerprints": [
+        "A0:6D:F0:A6:7E:D8:72:CA:0B:4D:CF:33:B2:E6:85:22:7E:98:76:43:65:D5:19:75:AF:17:1D:05:22:9D:66:7F"
+      ]
+    }
+  }
+]
