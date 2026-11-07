@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="es-PE">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Cancionero — Misa</title>
+  <!-- El link de Misa que se comparte por WhatsApp (…/cancionero/misa?d=…&s=…). En Android, con la app instalada,
+       lo abre la app; en el iPhone y en el navegador llega aquí y lo carga la versión web. -->
+  <script>
+    var base = location.pathname.replace(/misa(\.html)?\/?$/, '');
+    location.replace(base + '#/importar?' + location.search.slice(1));
+  </script>
+</head>
+<body></body>
+</html>

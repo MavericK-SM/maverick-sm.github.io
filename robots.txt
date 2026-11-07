@@ -1,0 +1,3 @@
+# El Cancionero se comparte solo por link: que los buscadores no lo muestren (PRD §11.3).
+User-agent: *
+Disallow: /cancionero/
